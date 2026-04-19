@@ -1,1 +1,1 @@
-# smart-greenhouse-embedded-simulation-system
+# Smart greenhouse embedded simulation-system
