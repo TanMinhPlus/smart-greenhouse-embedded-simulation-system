@@ -129,7 +129,7 @@ firmware/    → Arduino source code
 
 ## 📸 Demo
 
-(Add your Proteus screenshot here)
+<img width="1629" height="1181" alt="proteus" src="https://github.com/user-attachments/assets/1e096076-7985-4083-90d4-034fd102a2cd" />
 
 ---
 
